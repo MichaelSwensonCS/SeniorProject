@@ -1,11 +1,11 @@
 # SeniorProject
 
-<a ref="https://capstone.jpslc.io/">https://capstone.jpslc.io/</a>
+<a ref="https://capstone.jpslc.io/">https://capstone.jpslc.io/ </a>
 
-<a ref="https://youtu.be/F98mtXSP_OQ" https://youtu.be/F98mtXSP_OQ</a>
+<a ref="https://youtu.be/F98mtXSP_OQ"> https://youtu.be/F98mtXSP_OQ </a>
 # Team Name - Groove
 
-![team_picture__1_](uploads/c07eeeee8cb6812f7ecf2fa32090f4e4/team_picture__1_.jpg)
+![team_picture__1_]
 
 <i>(Left to Right)</i> 
 <br>
