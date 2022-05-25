@@ -6,6 +6,7 @@
 # Team Name - Groove
 
 ![Team Photo](https://github.com/MichaelSwensonCS/SeniorProject/blob/main/team_picture__1_.jpg?raw=true)
+<br>
 <i>(Left to Right)</i> 
 <br>
 Josh Perkins, Michael Swenson, Emma Beatty, Michael Hart
@@ -38,8 +39,6 @@ This will be a web based application that can run on any modern browser. As a st
 **List of Formal User Testing Dates**
 - February 28th: First Formal Meeting via Zoom
 - Third Week of March: Possible follow up meeting via zoom.
-
-[Meeting Notes](https://docs.google.com/document/d/18JPDPgU37xMvyLUe2i51S6w6FPxK2yxZXE_OsN3pDNE/edit?usp=sharing)
 
 
 **Summary of Technologies:**
