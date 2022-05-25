@@ -5,7 +5,7 @@
 <a ref="https://youtu.be/F98mtXSP_OQ"> https://youtu.be/F98mtXSP_OQ </a>
 # Team Name - Groove
 
-(https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+(https://github.com/MichaelSwensonCS/SeniorProject/blob/main/team_picture__1_.jpg?raw=true)
 <i>(Left to Right)</i> 
 <br>
 Josh Perkins, Michael Swenson, Emma Beatty, Michael Hart
